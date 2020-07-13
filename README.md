@@ -1,7 +1,7 @@
 ### Hi there 👋🤔💬😄⚡
 I am __Vishal Sinha__, 
 ### Web Application Engineer...
-I am very passionate for developing an awesome web application who can help to grow your business.
+I am very passionate for developing an awesome web application which can help you to grow your business in digital market.
 <!--
 **vishalsinhadev/vishalsinhadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
