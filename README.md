@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## Vishal Sinha
+
+![VishalSinha's github stats](https://github-readme-stats.vercel.app/api?username=vishalsinhadev&count_private=true&show_icons=true&theme=nightowl)
+
+![](https://api.ghprofile.me/view?username=vishalsinhadev&color=purple)
